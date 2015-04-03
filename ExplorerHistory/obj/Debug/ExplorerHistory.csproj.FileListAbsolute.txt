@@ -1,0 +1,9 @@
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\bin\Debug\ExplorerHistory.exe.config
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\bin\Debug\ExplorerHistory.exe
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\bin\Debug\ExplorerHistory.pdb
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.MainForm.resources
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.Properties.Resources.resources
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.exe
+c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.pdb
