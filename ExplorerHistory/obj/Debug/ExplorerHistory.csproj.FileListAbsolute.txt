@@ -7,3 +7,6 @@ c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHist
 c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.csproj.GenerateResource.Cache
 c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.exe
 c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHistory\obj\Debug\ExplorerHistory.pdb
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\bin\Debug\ExplorerHistory.exe.config
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\obj\Debug\ExplorerHistory.exe
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\obj\Debug\ExplorerHistory.pdb
