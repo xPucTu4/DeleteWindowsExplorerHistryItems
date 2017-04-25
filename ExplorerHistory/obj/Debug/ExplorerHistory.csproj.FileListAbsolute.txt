@@ -10,3 +10,9 @@ c:\users\root\documents\visual studio 2013\Projects\ExplorerHistory\ExplorerHist
 C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\bin\Debug\ExplorerHistory.exe.config
 C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\obj\Debug\ExplorerHistory.exe
 C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\obj\Debug\ExplorerHistory.pdb
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\bin\Debug\ExplorerHistory.exe
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\bin\Debug\ExplorerHistory.pdb
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\obj\Debug\ExplorerHistory.csprojResolveAssemblyReference.cache
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\obj\Debug\ExplorerHistory.MainForm.resources
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\obj\Debug\ExplorerHistory.Properties.Resources.resources
+C:\Users\root\Source\Repos\DeleteWindowsExplorerHistryItems\ExplorerHistory\obj\Debug\ExplorerHistory.csproj.GenerateResource.Cache
