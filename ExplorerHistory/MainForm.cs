@@ -27,7 +27,7 @@ namespace ExplorerHistory
             {
                 if (res.IsFaulted)
                 {
-                    MessageBox.Show("Cannot load the items list", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Cannot load the items list (or the list is empty)", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     Application.Exit();
                     return;
                 }
