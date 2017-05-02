@@ -8,4 +8,4 @@ https://github.com/xPucTu4/DeleteWindowsExplorerHistryItems/blob/master/Explorer
 Compiled for .Net 4.5.2
 Soon will be compiled for 4.6.x
 
-[![build status](http://Git.Pleven-DaGe.Net/root/DeleteWindowsExplorerHistryItems/badges/master/build.svg)](http://Git.Pleven-DaGe.Net/root/DeleteWindowsExplorerHistryItems/commits/master)
+[![build status](http://Git.Pleven-DaGe.Net/root/DeleteWindowsExplorerHistryItems/badges/master/build.svg)](http://Git.Pleven-DaGe.Net/root/DeleteWindowsExplorerHistryItems/builds/)
