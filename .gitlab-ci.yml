@@ -18,4 +18,4 @@ job_build1:
   - tags
   artifacts:
     paths:
-    - UncleDickLauncher/bin/
+    - ExplorerHistory/bin/
