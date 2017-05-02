@@ -1,0 +1,21 @@
+variables:
+  nuget: 'C:\Users\root\cirunner\nuget.exe'
+  msbuild: '"c:\Program Files (x86)\MSBuild\14.0\bin\msbuild.exe"'
+
+stages:
+  - build
+
+job_build1:
+  stage: build
+  script:
+  - echo "Not Restoring NuGet Packages!"
+  - dir
+  - ''
+  - echo "Release build for the old launcher..."
+  - C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe /consoleloggerparameters:ErrorsOnly /maxcpucount /nologo /property:Configuration=Release "ExplorerHistory/ExplorerHistory.csproj"
+  tags:
+  except:
+  - tags
+  artifacts:
+    paths:
+    - UncleDickLauncher/bin/
